@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "767bd8c9529a64ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f828fe68c894a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b001392c4ab48d84",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7d5571fc61e86443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCI Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HCI Design"
+            }
+          },
+          {
+            "id": "bb5b8abaa995fcb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCI Evaluation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HCI Evaluation"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e0e87d6a32df0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5361ba1b9c951e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1db9e4917a0509",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "59c7528107dc52fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf247150dfe33919",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35779d05e91c4139",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf71a384e3607818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43d0b18da264e7ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HCI Evaluation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HCI Evaluation"
+            }
+          },
+          {
+            "id": "53312f8e71a5fdbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HCI Evaluation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HCI Evaluation"
+            }
+          },
+          {
+            "id": "f80343a45c67ea62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8242a3d34e30ea0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HCI Evaluation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HCI Evaluation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb5b8abaa995fcb6",
+  "lastOpenFiles": [
+    "README.md",
+    "HCI Design.md",
+    "HCI Evaluation.md",
+    "Pasted image 20250127194015.png",
+    "Pasted image 20250127193513.png",
+    "Pasted image 20250125171101.png",
+    "Welcome.md"
+  ]
+}
